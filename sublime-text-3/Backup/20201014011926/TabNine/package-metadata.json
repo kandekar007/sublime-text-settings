@@ -1,0 +1,1 @@
+{"description": "Sublime Text client for TabNine. https://packagecontrol.io/packages/TabNine", "platforms": ["*"], "url": "https://codota.com", "dependencies": [], "sublime_text": "*", "version": "3.0.4"}
