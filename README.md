@@ -1,3 +1,3 @@
 # sublime-text-settings
 
-"put this folder in location: '''home/.config/'''"
+###"put this folder in location: home/.config/"
