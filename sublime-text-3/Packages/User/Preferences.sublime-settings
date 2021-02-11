@@ -96,6 +96,7 @@
 	"original_color_scheme": "Packages/Monokai++/themes/Monokai++.tmTheme",
 	"overlay_scroll_bars": "enabled",
 	"rulers": false,
+	"save_on_focus_lost": true,
 	"scroll_past_end": true,
 	"show_definitions": true,
 	"show_encoding": true,
