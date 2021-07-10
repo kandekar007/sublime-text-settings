@@ -1,0 +1,57 @@
+<snippet>
+    <content><![CDATA[
+#include <bits/stdc++.h>
+
+using namespace std;
+
+// Competetive Template:
+typedef long long int ll;
+typedef unsigned long long int ull;
+typedef long double ldb;
+typedef pair <ll,ll> pll;
+typedef pair <ll,string> pls;
+typedef pair <string, ll> psl;
+
+typedef vector <ll> vl;
+typedef vector <pll> vll;
+typedef vector <string> vs;
+typedef vector <char> vc;
+
+typedef set <ll> sl;
+typedef set <pll> sll;
+typedef set <char> sc;
+
+typedef map <ll, ll> mll;
+typedef map <pll, ll> mpll;
+typedef map <string, ll> msl;
+
+typedef priority_queue <ll> max_heap ;
+typedef priority_queue < ll, vector<ll> , greater<ll> > min_heap;
+
+
+
+int main()
+{
+    ios::sync_with_stdio(0);
+    cin.tie(0);cout.tie(0);
+#ifndef ONLINE_JUDGE
+    freopen("input.txt", "r", stdin);
+    freopen("output.txt", "w", stdout);
+    // freopen("error.txt", "w", stderr);
+#endif
+
+    int t;
+    cin>>t;
+    while(t--){
+        ${1:// hackermannn... $0}
+
+    }
+
+return 0;
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>cpp</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+<!--     <scope>source.cpp</scope> -->
+</snippet>
