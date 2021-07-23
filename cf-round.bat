@@ -1,6 +1,6 @@
 @echo off
 set /p round="Enter Round: "
-mkdir %round% 
+mkdir "%round%" 
 
 echo  .> %round%/A.cpp
 echo  .> %round%/B.cpp
